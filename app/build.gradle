@@ -47,6 +47,14 @@ dependencies {
     // FirebaseUI Auth
     compile 'com.google.firebase:firebase-auth:10.2.4'
     compile 'com.firebaseui:firebase-ui-auth:1.2.0'
+    // Firebase Storage
+    compile 'com.google.firebase:firebase-storage:10.2.4'
+    // Firebase Analytics
+    compile 'com.google.firebase:firebase-core:10.2.4'
+    // Firebase Messaging
+    compile 'com.google.firebase:firebase-messaging:10.2.4'
+    // Firebase Remote Config
+    compile 'com.google.firebase:firebase-config:10.2.4'
 }
 
 
